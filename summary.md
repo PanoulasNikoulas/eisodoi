@@ -10,3 +10,4 @@
 ## 09/11/2023
 - S2. Panepistimio Ippokratous photos
 - S3. Creation Local and remote repositories
+- S4. Added the 1st building
