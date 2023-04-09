@@ -4,5 +4,5 @@
 
 # summary
 
-## 09/04/2023
-- S1.
+## 08/04/2023
+- S1. Project idea, while drinkig tea at Neos Kosmos
