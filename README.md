@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/organization-PanoulasNikoulas-blue.svg)](https://github.com/PanoulasNikoulas) 
 [![](https://img.shields.io/badge/remote-eisodoi-green.svg)](https://github.com/PanoulasNikoulas/eisodoi) 
-[![](https://img.shields.io/badge/local-F:\prj\The--101--project\F:\prj\PanoulasNikoulas\eisodoi-orange.svg)]() 
+[![](https://img.shields.io/badge/local-F:\prj\PanoulasNikoulas\eisodoi-orange.svg)]() 
 
 
 * [tasks](tasks.md)
@@ -9,7 +9,7 @@
 * [links](links.md)
 
 # eisodoi
-Είσοδοι Αθηναικών πολυκατοικιων με τη ματιά των Πάνουλα και Νίκουλα
+Είσοδοι Αθηναικών κτηρίων με τη ματιά των Πάνουλα και Νίκουλα
 
 
 
