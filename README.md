@@ -534,3 +534,94 @@ width = 600
 `Φωτο 07-11`
 
 ----
+
+
+## 07. Πολυκατοικία ??
+
+<p align="center">
+<img
+src="img08/01.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 08-01`
+
+----
+
+<p align="center">
+<img
+src="img08/02.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 08-02`
+
+----
+
+<p align="center">
+<img
+src="img08/03.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 08-03`
+
+----
+
+<p align="center">
+<img
+src="img08/04.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 08-04`
+
+----
+
+<p align="center">
+<img
+src="img08/05.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 08-05`
+
+----
+
+<p align="center">
+<img
+src="img08/06.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 08-06`
+
+----
+
+<p align="center">
+<img
+src="img08/07.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 08-07`
+
+----
+
+<p align="center">
+<img
+src="img08/08.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 08-08`
+
+----
