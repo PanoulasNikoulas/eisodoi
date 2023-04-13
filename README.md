@@ -106,3 +106,149 @@ width = 600
 `Φωτο 02-04`
 
 ----
+
+## 03. Πολυκατοικία οδού Πλουτάρχου
+
+<p align="center">
+<img
+src="img03/01.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-01`
+
+----
+
+<p align="center">
+<img
+src="img03/02.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-02`
+
+----
+
+<p align="center">
+<img
+src="img03/03.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-03`
+
+----
+
+<p align="center">
+<img
+src="img03/04.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-04`
+
+----
+
+<p align="center">
+<img
+src="img03/05.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-05`
+
+----
+
+<p align="center">
+<img
+src="img03/06.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-06`
+
+----
+
+<p align="center">
+<img
+src="img03/07.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-07`
+
+----
+
+<p align="center">
+<img
+src="img03/08.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-08`
+
+----
+
+<p align="center">
+<img
+src="img03/09.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-09`
+
+----
+
+<p align="center">
+<img
+src="img03/10.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-10`
+
+----
+
+<p align="center">
+<img
+src="img03/11.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-11`
+
+----
+
+<p align="center">
+<img
+src="img03/12.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-12`
+
+----
+
+<p align="center">
+<img
+src="img03/13.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-13`
+
+----
+
