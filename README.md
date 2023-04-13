@@ -343,3 +343,71 @@ width = 600
 `Φωτο 05-05`
 
 ----
+
+## 06. Πολυκατοικία `15`
+
+<p align="center">
+<img
+src="img06/01.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 06-01`
+
+----
+
+<p align="center">
+<img
+src="img06/02.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 06-02`
+
+----
+
+<p align="center">
+<img
+src="img06/03.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 06-03`
+
+----
+
+<p align="center">
+<img
+src="img06/04.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 06-04`
+
+----
+
+<p align="center">
+<img
+src="img06/05.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 06-05`
+
+----
+
+<p align="center">
+<img
+src="img06/06.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 06-06`
+
+----
