@@ -286,3 +286,60 @@ width = 600
 `Φωτο 04-03`
 
 ----
+
+## 05. Πολυκατοικία ??
+
+<p align="center">
+<img
+src="img05/01.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 05-01`
+
+----
+
+<p align="center">
+<img
+src="img05/02.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 05-02`
+
+----
+
+<p align="center">
+<img
+src="img05/03.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 05-03`
+
+----
+
+<p align="center">
+<img
+src="img05/04.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 05-04`
+
+----
+
+<p align="center">
+<img
+src="img05/05.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 05-05`
+
+----
