@@ -14,3 +14,4 @@
 
 ## 13/04/2023
 - S5. Added building #2 Kerasoyntos
+- S6. Kolonaki 10 new buildings
