@@ -85,3 +85,15 @@ width = 600
 
 ----
 
+<p align="center">
+<img
+src="img02/03.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 02-03`
+
+----
+
+
