@@ -13,3 +13,4 @@
 - S4. Added the 1st building
 
 ## 13/04/2023
+- S5. Added building #2 Kerasoyntos
