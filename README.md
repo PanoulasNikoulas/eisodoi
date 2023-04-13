@@ -252,3 +252,37 @@ width = 600
 
 ----
 
+## 04. 2η Πολυκατοικία οδού Πλουτάρχου 
+
+<p align="center">
+<img
+src="img04/01.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 03-01`
+
+----
+
+<p align="center">
+<img
+src="img04/02.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 04-02`
+
+----
+
+<p align="center">
+<img
+src="img04/03.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 04-03`
+
+----
