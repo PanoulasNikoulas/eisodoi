@@ -411,3 +411,126 @@ width = 600
 `Φωτο 06-06`
 
 ----
+
+## 07. Πολυκατοικία Π. Ιωακείμ
+
+<p align="center">
+<img
+src="img07/01.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-01`
+
+----
+
+<p align="center">
+<img
+src="img07/02.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-02`
+
+----
+
+<p align="center">
+<img
+src="img07/03.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-03`
+
+----
+
+<p align="center">
+<img
+src="img07/04.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-04`
+
+----
+
+<p align="center">
+<img
+src="img07/05.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-05`
+
+----
+
+<p align="center">
+<img
+src="img07/06.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-06`
+
+----
+
+<p align="center">
+<img
+src="img07/07.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-07`
+
+----
+
+<p align="center">
+<img
+src="img07/08.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-08`
+
+----
+
+<p align="center">
+<img
+src="img07/09.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-09`
+
+----
+
+<p align="center">
+<img
+src="img07/10.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-10`
+
+----
+
+<p align="center">
+<img
+src="img07/11.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 07-11`
+
+----
