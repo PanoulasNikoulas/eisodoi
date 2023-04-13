@@ -74,3 +74,14 @@ width = 600
 
 ----
 
+<p align="center">
+<img
+src="img02/02.PNG"
+width = 600
+/>
+</p> 
+
+`Φωτο 02-02`
+
+----
+
